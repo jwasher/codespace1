@@ -1,0 +1,5 @@
+import pytest 
+
+
+class TestMyFunc(pytest):
+  pass
